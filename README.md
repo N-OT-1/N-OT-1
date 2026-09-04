@@ -29,9 +29,5 @@ while (alive) {
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/N-OT-1/N-OT-1/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-<p align="center">
   <i>Stay curious.</i>
 </p>

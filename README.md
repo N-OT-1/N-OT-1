@@ -1,34 +1,37 @@
-# Hi, I'm N-OT-1 👋
+<h1 align="center">Hi, I'm N-OT-1 👋</h1>
 
-> **Just a nobody who loves computer science.**
-
-Java Developer · CS Graduate Student  
-Interested in **AI**, **software engineering**, and learning how things work.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&center=true&vCenter=true&width=520&lines=Just+a+nobody+who+loves+computer+science.;Java+Developer;CS+Graduate+Student;AI+Explorer;Still+learning..." alt="Typing SVG" />
+</p>
 
 ---
 
-## About Me
+```bash
+$ whoami
+N-OT-1
 
-- ☕ Working with Java and backend development
-- 🤖 Exploring AI agents and LLM applications
-- 🛰️ Learning deep learning and remote sensing
-- 📚 Currently a first-year CS graduate student
-- 🌱 Still learning, building, and trying new things
+$ cat profile.txt
+role      : Java Developer
+student   : CS Graduate Student (Year 1)
+interests : AI / Software Engineering / Computer Science
+status    : still learning...
+```
 
 ## Currently Exploring
 
 `Java` · `Spring Boot` · `AI Agents` · `Python` · `PyTorch`
 
-Recently, I'm spending more time exploring how AI can be combined with software engineering and real-world applications.
-
----
-
-## Currently
-
-```text
-Write code.
-Learn something new.
-Build something useful.
+```java
+while (alive) {
+    learn();
+    build();
+}
 ```
 
-> Stay curious.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/N-OT-1/N-OT-1/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+<p align="center">
+  <i>Stay curious.</i>
+</p>
